@@ -1,0 +1,7 @@
+tensorflow
+keras
+PIL
+numpy
+imgcat
+selenium
+
