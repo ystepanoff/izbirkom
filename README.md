@@ -1,3 +1,4 @@
 # Selenium-based izbirkom.ru crawler
-# This is no longer maintained.
+# This project is no longer being developed.
+
 Contains a pre-trained sequential model for solving captcha. 
